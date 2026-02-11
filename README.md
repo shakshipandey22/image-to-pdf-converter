@@ -26,8 +26,8 @@ Pillow (Image Processing)
 
 Clone the repository:
 
-git clone https://github.com/your-username/image-to-pdf-converter.git
-cd image-to-pdf-converter
+https://github.com/shakshipandey22/image-to-pdf-converter.git
+
 
 Install dependencies:
 
